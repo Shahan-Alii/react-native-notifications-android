@@ -1,0 +1,8 @@
+# Ignore Node.js dependencies
+**/node_modules/
+**/.expo/
+**/build/
+**/dist/
+
+# Ignore environment files
+**/.env
