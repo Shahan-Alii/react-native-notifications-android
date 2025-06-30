@@ -106,7 +106,4 @@ notifications_demo/
 
 This project is for **educational/demo purposes**.
 
-```
 
-You can now paste this into a file named `README.md` at the root of your project, and GitHub will render it as a formatted project description. Let me know if you'd like to include screenshots, Postman examples, or add a `.env` setup.
-```
